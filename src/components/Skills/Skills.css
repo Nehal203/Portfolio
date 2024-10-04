@@ -1,0 +1,427 @@
+.skills{
+    height: 55rem;
+    width: 100vw;
+    /* background-color: red; */
+}
+.headingskills{
+    font-size: 1.8rem;
+    text-align: center;
+}
+.skills1{
+    /* height: 20rem; */
+    height: auto;
+    width: 100vw;
+    /* background-color: aqua; */
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+}
+
+.react{
+    height: 13rem;
+    width: 17vw;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    background-color: white;
+    border-radius: 50%;
+    /* display: flex; */
+}
+.reactimg2{
+    height: 6rem;
+    margin-left: 3rem;
+    margin-top:3rem;
+}
+.html{
+    margin-top: 2rem;
+    height: 13rem;
+    width: 17vw;
+    margin-left: 6rem;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.htmlimg1{
+    margin-top: 4rem;
+    margin-left: 3rem;
+    height:  5rem;
+}
+.tailwind{
+    height: 13rem;
+    width: 17vw;
+    margin-left: 6rem;
+    margin-top: 2rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.tailwindimg1{
+    height: 6rem;
+    margin-top: 3rem;
+    margin-left: 2rem; 
+}
+.headingskills:hover{
+    color:  rgb(0, 255,255);
+}
+.Cplus{
+    margin-top: 2rem;
+    height: 13rem;
+    width: 17vw;
+    margin-left: 6rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.Cplusimg1{
+    height: 9rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.java{
+    margin-top: 2rem;
+    height: 13rem;
+    width: 17vw;
+    margin-left: 6rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.javaimg1{
+    height: 6rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+.sql{
+    margin-top: 2rem;
+    height: 13rem;
+    width: 17vw;
+    margin-left: 6rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.sqlimg1{
+    height: 6rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+.dbms{
+    margin-top: 2rem;
+    height: 13rem;
+    width: 17vw;
+    margin-left: 6rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.dbmsimg1{
+    height: 6rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+.operating{
+    margin-top: 2rem;
+    height: 13rem;
+    width: 17vw;
+    margin-left: 6rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.operatingimg1{
+    height: 6rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+.dsa{
+    margin-top: 2rem;
+    height: 13rem;
+    width: 17vw;
+    margin-left: 6rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.dsaimg1{
+    height: 5rem;
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation:landscape){
+    .skills{
+        height: 55rem;
+        width: 100vw;
+        /* background-color: red; */
+    }
+    .headingskills{
+        font-size: 1.8rem;
+        text-align: center;
+    }
+    .skills1{
+        /* height: 20rem; */
+        height: auto;
+        width: 100vw;
+        /* background-color: aqua; */
+        display: flex;
+        flex-wrap: wrap;
+        /* justify-content: center; */
+    }
+    
+    .react{
+        height: 10rem;
+        width: 15vw;
+        /* margin-left: 2rem; */
+        /* margin-top: 2rem; */
+        margin-left: 6rem;
+        background-color: white;
+        border-radius: 50%;
+        /* display: flex; */
+    }
+    .reactimg2{
+        height: 4rem;
+        /* margin-left: 1rem; */
+        /* padding-right: 2rem; */
+        /* margin-right: 1rem; */
+        margin-left: 2.5rem;
+        margin-top:3rem;
+    }
+    
+    
+    .htmlimg1{
+        margin-top: 4rem;
+        margin-left: 1rem;
+        height:  5rem;
+    }
+    .tailwind{
+        height: 10rem;
+        width: 20vw;
+        margin-left: 6rem;
+        margin-top: 2rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .tailwindimg1{
+        height: 4rem;
+        margin-top: 3rem;
+        margin-left: 2rem; 
+    }
+    .headingskills:hover{
+        color:  rgb(0, 255,255);
+    }
+    .Cplus{
+        margin-top: 2rem;
+        height: 13rem;
+        width: 17vw;
+        margin-left: 6rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .Cplusimg1{
+        height: 7rem;
+        margin-top: 3rem;
+        margin-left: 2rem;
+    }
+    
+    .java{
+        margin-top: 2rem;
+        height: 13rem;
+        width: 17vw;
+        margin-left: 6rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .javaimg1{
+        height: 6rem;
+        margin-top: 3rem;
+        margin-left: 2rem;
+    }
+    .sql{
+        margin-top: 2rem;
+        height: 13rem;
+        width: 17vw;
+        margin-left: 6rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .sqlimg1{
+        height: 5rem;
+        margin-top: 3rem;
+        margin-left: 0.9rem;
+    }
+    .dbms{
+        margin-top: 2rem;
+        height: 13rem;
+        width: 17vw;
+        margin-left: 6rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .dbmsimg1{
+        height: 6rem;
+        margin-top: 3rem;
+        margin-left: 2rem;
+    }
+    .operating{
+        margin-top: 2rem;
+        height: 13rem;
+        width: 17vw;
+        margin-left: 6rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .operatingimg1{
+        height: 5rem;
+        margin-top: 4rem;
+        margin-left: 1rem;
+    }
+    .dsa{
+        margin-top: 2rem;
+        height: 13rem;
+        width: 17vw;
+        margin-left: 6rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .dsaimg1{
+        height: 4rem;
+        margin-top: 4rem;
+        margin-left: 2rem;
+    }
+}
+@media only screen and (min-width:320px) and (max-width:767px){
+    .skills{
+        height: 105rem;
+        width: 100vw;
+        /* background-color: red; */
+    }
+    .headingskills{
+        font-size: 1.3rem;
+        text-align: center;
+    }
+    .skills1{
+        /* height: 20rem; */
+        height: 35rem;
+        width: 100vw;
+        /* background-color: aqua; */
+        display: inline-block;
+        flex-wrap: wrap;
+        /* justify-content: center; */
+    }
+    
+    .react{
+        height: 8rem;
+        width: 44vw;
+        margin-left: 5rem;
+        margin-top: 2rem;
+        background-color: white;
+        border-radius: 50%;
+        /* display: flex; */
+    }
+    .reactimg2{
+        height: 4rem;
+        margin-left: 2rem;
+        margin-top:2rem;
+    }
+    .html{
+        margin-top: 2rem;
+        height: 9rem;
+        width: 44vw;
+        margin-left: 5rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    
+    .htmlimg1{
+        margin-top: 3rem;
+        margin-left: 1rem;
+        height:  3.9rem;
+    }
+    .tailwind{
+        height: 9rem;
+        width: 44vw;
+        margin-left: 5rem;
+        margin-top: 2rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .tailwindimg1{
+        height: 3.8rem;
+        margin-top: 3rem;
+        margin-left: 1rem; 
+    }
+    .headingskills:hover{
+        color:  rgb(0, 255,255);
+    }
+    .Cplus{
+        margin-top: 2rem;
+        height: 9rem;
+        width: 44vw;
+        margin-left: 5rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .Cplusimg1{
+        height: 5rem;
+        margin-top: 2rem;
+        margin-left: 2rem;
+    }
+    
+    .java{
+        margin-top: 2rem;
+        height: 9rem;
+        width: 44vw;
+        margin-left: 5rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .javaimg1{
+        height: 5rem;
+        margin-top: 3rem;
+        margin-left: 2rem;
+    }
+    .sql{
+        margin-top: 2rem;
+        height: 9rem;
+        width: 44vw;
+        margin-left: 5rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .sqlimg1{
+        height: 4rem;
+        margin-top: 3rem;
+        margin-left: 1rem;
+    }
+    .dbms{
+        margin-top: 2rem;
+        height: 9rem;
+        width: 44vw;
+        margin-left: 5rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .dbmsimg1{
+        height: 5rem;
+        margin-top: 3rem;
+        margin-left: 2rem;
+    }
+    .operating{
+        margin-top: 2rem;
+        height: 9rem;
+        width: 44vw;
+        margin-left: 5rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .operatingimg1{
+        height: 3rem;
+        margin-top: 3rem;
+        margin-left: 2rem;
+    }
+    .dsa{
+        margin-top: 2rem;
+        height: 9rem;
+        width: 44vw;
+        margin-left: 5rem;
+        background-color: white;
+        border-radius: 50%;
+    }
+    .dsaimg1{
+        height: 3.5rem;
+        margin-top: 3rem;
+        margin-left: 1rem;
+    }
+}

@@ -1,0 +1,135 @@
+.herosection{
+    color: white;
+    height: 35rem;
+    background-color: rgb(13,13,13);
+    width: 100vw;
+    display: flex;
+    /* margin-top:5rem; */
+}
+.left{
+
+    height: 40rem;
+    width: 50vw;
+    padding-top: 15rem;
+    /* padding-left: 6rem; */
+}
+.herosectionh1{
+    font-size: 1.5rem;
+}
+.herosectionh1 span{
+    color: rgb(0, 255,255);
+}
+.stack{
+    font-size: 1.5rem; 
+}
+.right{
+    height: 40rem;
+    width: 50vw;
+}
+.right img{
+    height: 30rem;
+    padding-top: 8rem;
+    padding-left: 10rem;
+}
+.myimage{
+    /* width: 100%; */
+    height: 30rem;
+    padding-top: 8rem;  
+    padding-left: 10rem;
+
+}
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation:landscape){
+    .herosection{
+        color: white;
+        height: 35rem;
+        background-color: rgb(13,13,13);
+        width: 100vw;
+        display: flex;
+    }
+    .left{
+    
+        height: 40rem;
+        width: 60vw;
+        /* background-color: red; */
+        padding-top: 15rem;
+        padding-left:2rem;
+    }
+    .herosectionh1{
+        font-size: 1.1rem;
+    }
+    .herosectionh1 span{
+        color: rgb(0, 255,255);
+    }
+    .stack{
+        font-size: 1.1rem; 
+    }
+    .right{
+        height: 40rem;
+        width: 70vw;
+        /* background-color: blue; */
+        /* padding-top: 15rem; */
+        padding-left: 0;
+    }
+    .myimage{
+        /* width: 100%; */
+        height: 30rem;
+        padding-top: 8rem;  
+        padding-left: 10rem;
+    
+    }
+}
+@media only screen and (min-width:320px) and (max-width:767px){
+
+    .herosection{
+        color: white;
+        height: 35rem;
+        background-color: rgb(13,13,13);
+        width: 100vw;
+        display: flex;
+        /* margin-top:5rem; */
+    }
+    .left{
+    
+        height: 35rem;
+        width: 100vw;
+        padding-top: 15rem;
+        /* padding: 0; */
+        /* padding-top: 15rem; */
+        padding-left: 1rem;
+    }
+    .herosectionh1{
+        font-size: 0.95rem;
+    }
+    .herosectionh1 span{
+        color: rgb(0, 255,255);
+    }
+    .stack{
+        font-size: 0.80rem; 
+    }
+    .right{
+       display: none;
+    }
+    .para2{
+        /* margin-left: 1rem; */
+        margin-right: 1rem;
+    }
+    /* .myimage { */
+        /* display: none; Image ko hide karne ke liye */
+    /* } */
+
+    /* .left { */
+        /* width: 100%; Left section ko full width karne ke liye */
+        /* display: flex; Flexbox ko use karna hai */
+        /* flex-direction: column; Items ko column me arrange karne ke liye */
+        /* align-items: center; Center me align karne ke liye */
+        /* padding-top: 2rem; Padding add karne ke liye */
+    /* } */
+    
+    /* .para, */
+    /* .herosectionh1, */
+    /* .stack, */
+    /* .para2 { */
+        /* margin: 0 auto; Auto margin se center alignment milega */
+        /* text-align: center; Text ko center align karne ke liye */
+    /* } */
+}
